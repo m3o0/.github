@@ -1,6 +1,6 @@
 # 🥪 OpenFacedSandwich
 
-Welcome to **OpenFacedSandwich** —  
+Welcome to **OpenFacedSandwich** -  
 a collection of open-source projects, AI experiments, tools, and slightly questionable ideas…  
 
 **layered like a proper Danish smørrebrød.**
